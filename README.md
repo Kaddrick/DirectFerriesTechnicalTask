@@ -18,13 +18,13 @@ We would like you to complete a small task to demonstrate your technical underst
 
 ---
 3. - Go to the UK My Account page - https://account.directferries.com/?culture=en-GB
-   - Log into My Account  using the following credentials
+   - Log into My Account using the following credentials:
        - qatesting@directferries.com
        - DFP164826683
-     -  Confirm on the first page (My Booking) that there is 
-        - 2 passengers and 1 vehicle for the outbound journey 
-        - 1 passenger and 1 vehicle for the return journey
-       -  Navigate to the details of the outbound leg.
-          - Vehicle is showing as 
-          - Passenger name is showing as 
-          - (any other tests)
+      -  Confirm on the first page (My Booking) that there is 
+         - 2 passengers and 1 vehicle for the outbound journey 
+         - 1 passenger and 1 vehicle for the return journey
+      -  Navigate to the details of the outbound leg
+         - Vehicle is showing as 
+         - Passenger name is showing as TestOne
+         - (any other tests)
