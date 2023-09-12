@@ -28,3 +28,5 @@ We would like you to complete a small task to demonstrate your technical underst
       - Vehicle is showing as Abarth 500
       - Lead passenger name is showing as 'TestOne TestRD'
       - Other passenger name is showing as 'TestTwo TestRD'
+
+Please send your finished repo via email to racheld@directferries.com prior to your interview
