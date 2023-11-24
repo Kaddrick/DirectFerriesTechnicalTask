@@ -29,4 +29,7 @@ We would like you to complete a small task to demonstrate your technical underst
       - Lead passenger name is showing as 'TestOne TestRD'
       - Other passenger name is showing as 'TestTwo TestRD'
 
+---
+4. If you had extra time, what would you have done differently?
+
 Please send your finished repo via email to racheld@directferries.com prior to your interview
